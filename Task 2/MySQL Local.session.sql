@@ -29,7 +29,7 @@ CREATE TABLE sales (
 SELECT * FROM sales
 
 
--- Inventory Summary View (virtual table) for cost calculations
+-- Inventory Summary View for cost calculations
 CREATE VIEW inventory_summary AS
 SELECT 
     p.id AS product_id,
