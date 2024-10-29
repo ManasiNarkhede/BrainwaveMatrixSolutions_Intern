@@ -1,7 +1,7 @@
 # Inventory Management System
 
 ## Overview
-The Inventory Management System is an application built using Python and Tkinter, designed to help users manage their inventory effectively. It allows users to add, update, delete, and view sales data, providing a user-friendly interface for inventory management.
+The Inventory Management System is an application built using Python and Tkinter, designed to help users manage their inventory effectively. It allows users to add, update, delete, and view sales and products data, providing a user-friendly interface for inventory management.
 
 ## Features
 - **Add Sale**: Input product details to add a new sale to the inventory.
@@ -19,11 +19,11 @@ The Inventory Management System is an application built using Python and Tkinter
 ## Installation
 1. Clone the repository:
     git clone <repository-url>
-2. Navigate to the project directory:
+3. Navigate to the project directory:
     cd <project-directory>
-3. Install required libraries:
+4. Install required libraries:
     pip install -r requirements.txt
-4. Set up the MySQL database:
+5. Set up the MySQL database:
     * Create a database named inventory_management.
     * Run the provided SQL scripts to create the necessary tables.
 
