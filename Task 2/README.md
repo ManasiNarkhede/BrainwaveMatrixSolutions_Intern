@@ -17,17 +17,11 @@ The Inventory Management System is an application built using Python and Tkinter
 - Matplotlib (for data visualization)
 
 ## Installation
-1. Clone the repository:
-
-   
+1. Clone the repository: 
     "git clone <repository-url>"
-3. Navigate to the project directory:
-
-   
+3. Navigate to the project directory: 
     "cd <project-directory>"
 5. Install required libraries:
-
-   
     "pip install -r requirements.txt"
 7. Set up the MySQL database:
     * Create a database named inventory_management.
@@ -35,8 +29,6 @@ The Inventory Management System is an application built using Python and Tkinter
 
 ## Usage
 1. Run the application:
-
-   
     "python main.py"
 3. Use the GUI to manage Inventory data:
     * Fill in the Inventory form to add new products.
