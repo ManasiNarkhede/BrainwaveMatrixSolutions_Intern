@@ -1,6 +1,0 @@
-# Requirements for the Inventory Management System
-
-tkinter
-matplotlib
-mysql-connector-python
-Pillow
