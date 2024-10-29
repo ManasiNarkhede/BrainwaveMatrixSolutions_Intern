@@ -20,15 +20,15 @@ The Inventory Management System is an application built using Python and Tkinter
 1. Clone the repository:
 
    
-    git clone <repository-url>
+    "git clone <repository-url>"
 3. Navigate to the project directory:
 
    
-    cd <project-directory>
+    "cd <project-directory>"
 5. Install required libraries:
 
    
-    pip install -r requirements.txt
+    "pip install -r requirements.txt"
 7. Set up the MySQL database:
     * Create a database named inventory_management.
     * Run the provided SQL scripts to create the necessary tables.
@@ -37,7 +37,7 @@ The Inventory Management System is an application built using Python and Tkinter
 1. Run the application:
 
    
-    python main.py
+    "python main.py"
 3. Use the GUI to manage Inventory data:
     * Fill in the Inventory form to add new products.
     * Select a product to edit, update or delete it.
